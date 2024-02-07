@@ -1,0 +1,13 @@
+This code will run in Paython 3 and you will require the following
+
+pip install numpy 
+pip install pandas 
+pip install matplotlib
+pip install seaborn
+
+Incase you are using Anaconda you will require the following
+
+conda install numpy 
+conda install pandas 
+conda install matplotlib
+conda install seaborn
